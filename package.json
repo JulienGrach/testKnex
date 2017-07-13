@@ -1,0 +1,15 @@
+{
+  "name": "retest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knexfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.13.0",
+    "mysql": "^2.13.0"
+  }
+}
